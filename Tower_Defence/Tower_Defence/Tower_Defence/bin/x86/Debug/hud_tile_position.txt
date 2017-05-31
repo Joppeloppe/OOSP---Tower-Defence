@@ -1,0 +1,8 @@
+128;640;blue_tex
+256;640;grey_tex
+384;640;lime_tex
+512;640;orange_tex
+640;640;pink_tex
+768;640;purple_tex
+896;640;red_tex
+1018;640;target_tex

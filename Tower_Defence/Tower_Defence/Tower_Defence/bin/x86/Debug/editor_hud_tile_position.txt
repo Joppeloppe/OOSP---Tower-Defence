@@ -1,0 +1,10 @@
+224;800;blue_tex
+352;800;grey_tex
+480;800;lime_tex
+608;800;orange_tex
+736;800;pink_tex
+864;800;purple_tex
+992;800;red_tex
+1120;800;blue_tex
+1248;800;blue_tex
+1376;800;target_tile

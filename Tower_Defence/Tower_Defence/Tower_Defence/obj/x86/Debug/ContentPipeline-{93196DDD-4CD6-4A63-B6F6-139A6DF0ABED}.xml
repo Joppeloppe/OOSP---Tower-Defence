@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Image\Screen\game_over_test.png</Source>
+      <Name>Image\Screen\game_over_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Screen\game_over_test.xnb</Output>
+      <Time>2014-12-08T08:37:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Screen\game_win_test.png</Source>
+      <Name>Image\Screen\game_win_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Screen\game_win_test.xnb</Output>
+      <Time>2014-12-08T08:37:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Screen\start_screen_test.png</Source>
+      <Name>Image\Screen\start_screen_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Screen\start_screen_test.xnb</Output>
+      <Time>2014-12-08T08:37:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Color\blue.png</Source>
+      <Name>Image\Color\blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Color\blue.xnb</Output>
+      <Time>2015-01-11T14:17:54.345731+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Color\grey.png</Source>
+      <Name>Image\Color\grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Color\grey.xnb</Output>
+      <Time>2015-01-11T14:37:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Color\lime.png</Source>
+      <Name>Image\Color\lime</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Color\lime.xnb</Output>
+      <Time>2015-01-11T14:31:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Color\orange.png</Source>
+      <Name>Image\Color\orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Color\orange.xnb</Output>
+      <Time>2014-12-11T09:09:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Color\pink.png</Source>
+      <Name>Image\Color\pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Color\pink.xnb</Output>
+      <Time>2014-12-11T09:09:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Color\purple.png</Source>
+      <Name>Image\Color\purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Color\purple.xnb</Output>
+      <Time>2015-01-11T17:18:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Color\red.png</Source>
+      <Name>Image\Color\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Color\red.xnb</Output>
+      <Time>2014-12-11T09:09:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\HUD\hud_frame.png</Source>
+      <Name>Image\HUD\hud_frame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\HUD\hud_frame.xnb</Output>
+      <Time>2014-12-08T15:20:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\HUD\hud_1600_900.png</Source>
+      <Name>Image\HUD\hud_1600_900</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\HUD\hud_1600_900.xnb</Output>
+      <Time>2015-01-09T08:14:45.6812442+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Misc\target_tile.png</Source>
+      <Name>Image\Misc\target_tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Misc\target_tile.xnb</Output>
+      <Time>2015-01-09T08:17:51+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Tower\tower_blue.png</Source>
+      <Name>Image\Tower\tower_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Tower\tower_blue.xnb</Output>
+      <Time>2015-01-10T09:43:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Tower\tower_green.png</Source>
+      <Name>Image\Tower\tower_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Tower\tower_green.xnb</Output>
+      <Time>2015-01-10T09:43:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Tower\tower_grey.png</Source>
+      <Name>Image\Tower\tower_grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Tower\tower_grey.xnb</Output>
+      <Time>2015-01-06T11:30:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Tower\tower_purple.png</Source>
+      <Name>Image\Tower\tower_purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Tower\tower_purple.xnb</Output>
+      <Time>2015-01-10T09:43:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Tower\tower_yellow.png</Source>
+      <Name>Image\Tower\tower_yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Tower\tower_yellow.xnb</Output>
+      <Time>2015-01-10T09:43:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Color\clear.png</Source>
+      <Name>Image\Color\clear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Color\clear.xnb</Output>
+      <Time>2015-01-10T09:56:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Misc\circle.png</Source>
+      <Name>Image\Misc\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Misc\circle.xnb</Output>
+      <Time>2015-01-10T23:14:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Misc\diamond.png</Source>
+      <Name>Image\Misc\diamond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Misc\diamond.xnb</Output>
+      <Time>2015-01-10T23:14:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Misc\star.png</Source>
+      <Name>Image\Misc\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Image\Misc\star.xnb</Output>
+      <Time>2015-01-10T23:14:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Andy.spritefont</Source>
+      <Name>Font\Andy</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\Font\Andy.xnb</Output>
+      <Time>2014-12-08T09:41:14+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{93196DDD-4CD6-4A63-B6F6-139A6DF0ABED}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_DefenceContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 5 - TD\Examination 5 - Tower Defence\Tower_Defence\Tower_Defence\Tower_Defence\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-24T23:15:39.9897017+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

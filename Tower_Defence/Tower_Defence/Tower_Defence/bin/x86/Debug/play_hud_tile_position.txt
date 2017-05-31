@@ -1,0 +1,5 @@
+224;800;tower_blue
+352;800;tower_green
+480;800;tower_grey
+608;800;tower_purple
+736;800;tower_yellow
